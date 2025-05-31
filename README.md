@@ -110,5 +110,4 @@ python Allocation_Q.py
     - ![image (13)](https://github.com/user-attachments/assets/1391074d-c489-4667-b55d-dd61a1ea2822)
 
 - 결과: 시간에 따른 최적의 할당 방식을 찾고 이에 따라 CPU 할당되는 양을 알려준다.
-
-![VM 할당 구조 예시](image22.gif)
+- ![VM 할당 구조 예시](image22.gif)
