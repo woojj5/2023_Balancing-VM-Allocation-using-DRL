@@ -10,7 +10,8 @@
 
 # RL_VM_Allocation
 
-강화학습(Deep Reinforcement Learning, DRL) 기반의 VM(가상머신) 할당 및 밸런싱 실험 프로젝트입니다.
+강화학습(Deep Reinforcement Learning, DRL) 기반의 VM(가상머신) 할당 및 밸런싱 프로젝트입니다.
+
 데이터센터 환경에서 VM을 효율적으로 할당하여 자원 활용률을 높이고, 서버 부하를 균형 있게 분산시키는 것을 목표로 합니다.
 
 ---
