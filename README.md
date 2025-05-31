@@ -1,16 +1,26 @@
-# Balancing VM Allocation using DRL
+# Balancing-VM-Allocation-using-DRL
 
-![image (9)](https://github.com/user-attachments/assets/64ace5b3-38a2-48b6-8e1f-d3ef9a48b6fb)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SQLite3](https://img.shields.io/badge/sqlite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-기존의 클라우드에서 데이터를 할당하는 작업을 진행하는 경우, ML이나 DR이 자주 사용되었지만 
+---
 
-자동적인 의사결정을 만들고 시스템을 최적화하기 위해서 RL을 적용한 방식을 제안하려고 한다.
+# RL_VM_Allocation
 
-![image (10)](https://github.com/user-attachments/assets/d167b11b-7805-44f3-8689-cc9cc2a6cce7)
+강화학습(Deep Reinforcement Learning, DRL) 기반의 VM(가상머신) 할당 및 밸런싱 실험 프로젝트입니다.
+데이터센터 환경에서 VM을 효율적으로 할당하여 자원 활용률을 높이고, 서버 부하를 균형 있게 분산시키는 것을 목표로 합니다.
+
+---
+
+## 프로젝트 소개
 
 ![image (11)](https://github.com/user-attachments/assets/8ceb091a-1d2e-4d56-b419-544075b486e8)
 
-특히 virtual machine 할당의 경우는 클라우드 컴퓨팅의 할당 측면에서 가장 중요한 이슈이다.
+- 다양한 DRL 알고리즘(Q-learning, DQN, Actor-Critic 등)을 활용해 VM 할당 정책을 학습합니다.
+- VM의 자원 요구량, 서버 상태 등 환경 정보를 바탕으로 에이전트가 최적의 할당 결정을 내립니다.
+- 실험 결과는 자원 활용률, 부하 밸런싱, 에너지 효율성 등의 지표로 분석합니다.
 
 ![image (12)](https://github.com/user-attachments/assets/29e5f633-cda4-42c9-a2e8-70dbf17c9a00)
 
