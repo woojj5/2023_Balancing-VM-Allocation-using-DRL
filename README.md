@@ -30,7 +30,7 @@
 - **Python 3.7+**
 - 주요 라이브러리: `numpy`, `pandas`, `matplotlib`, `torch` 또는 `tensorflow` (알고리즘별 상이)
 - 버전 및 이슈관리: GitHub
-- 협업 툴: GitHub Issues, GitHub Projects, Notion
+- 협업 툴: GitHub
 
 ---
 
